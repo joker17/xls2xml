@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<singleTable xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:singleTable="http://www.hundsun.com/singletable" chineseName="银行间资产处理配置表" file="qs_tassetdealconfig_bank.sql">
+  <histories modifiedDate="2017-05-17 11:21" version="1.0.0.5" modified="新建资源"/>
+  <items xsi:type="singleTable:MasterItem" busin_flag="2104" amount_change_direction="0" cost_change_direction="0" profit_change_direction="0" dividend_change_direction="0" subject_change_direction="0" subject_no="0" cash_change_direction="2" deposit_change_direction="0" match_order_no="0" match_serial_no="0" external_result="0" day_type="0" day_count="0" complete_point="0"/>
+  <items xsi:type="singleTable:MasterItem" busin_flag="2108" amount_change_direction="0" cost_change_direction="0" profit_change_direction="0" dividend_change_direction="0" subject_change_direction="0" subject_no="0" cash_change_direction="1" deposit_change_direction="0" match_order_no="0" match_serial_no="0" external_result="0" day_type="0" day_count="0" complete_point="0"/>
+    <relation master="qs_tassetdealconfig_bank" type="jres.db.table"/>
+</singleTable>
+  

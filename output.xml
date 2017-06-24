@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF8'?>
+<singleTable xmlns:ns0="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" chineseName="银行间资产处理配置表" file="qs_tassetdealconfig_bank.sql" ns0:version="2.0">
+  <histories modified="新建资源" modifiedDate="2017-05-17 11:21" version="1.0.0.5" />
+  <items amount_change_direction="0" busin_flag="1111" cash_change_direction="2" complete_point="0" cost_change_direction="0" day_count="0" day_type="0" deposit_change_direction="0" dividend_change_direction="0" external_result="0" match_order_no="0" match_serial_no="0" profit_change_direction="0" subject_change_direction="0" subject_no="0" xsi:type="singleTable:MasterItem" />
+  <items amount_change_direction="0" busin_flag="1111" cash_change_direction="1" complete_point="0" cost_change_direction="0" day_count="0" day_type="0" deposit_change_direction="0" dividend_change_direction="0" external_result="0" match_order_no="0" match_serial_no="0" profit_change_direction="0" subject_change_direction="0" subject_no="0" xsi:type="singleTable:MasterItem" />
+    <relation master="qs_tassetdealconfig_bank" type="jres.db.table" />
+</singleTable>
